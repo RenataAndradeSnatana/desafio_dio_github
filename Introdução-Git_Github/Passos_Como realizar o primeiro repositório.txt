@@ -1,0 +1,12 @@
+1 - Criar um conta no github através do site:https://github.com/
+2 - Acessar o repositório e criar um novo
+3 - Dar um nome ao repositório preenchendo o espaço Repository name, deixa ativado a opção Public e
+    pode marcar a opção Add a README file, caso queira um arquivo editável.
+4 - Clica em create repository.
+5 - Você pode editar o repositório através da imagem que simboliza um lápis.
+6 - Para clonar o repositório criado para a pasta local clica em code e copia o link do repoitório.
+7 - Com a pasta local aberta abra o Git Bash Here, já instalado no seu computador.
+8 - Digite git clone + o endereço copiado. Para copiar pode ser através do clique com botão direito
+    opção paste e enter.
+9 - Para realizar 
+
