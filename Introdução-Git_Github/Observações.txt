@@ -1,0 +1,3 @@
+Utilize git status para verificar as alterações feita no git bush
+Qualquer alterações feitas no arquivo local será necessário utilizar o comando git add .
+Será que toda vez será necessário utilizar o commit -m "" ? Sim
